@@ -5,6 +5,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 
 public class Solution209 {
+	// O(n) LinkedHashMap
 	public char firstUniqChar(String str) {
 
 		char tmpChar;
