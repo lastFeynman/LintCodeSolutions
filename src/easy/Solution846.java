@@ -27,7 +27,6 @@ public class Solution846 {
         return array;
     }
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		int[][] array = {{7,66},{4,77},{3,63},{5,81},{1,88},{9,86},{6,88},{2,82},{8,55},{10,95}};
 		new Solution846().multiSort(array);
 	}
